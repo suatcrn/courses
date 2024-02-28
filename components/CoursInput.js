@@ -70,10 +70,10 @@ const styles = StyleSheet.create({
   },
   buttonContainer: {
     flexDirection: "row",
-    marginTop: 15,
+    marginTop: 20,
   },
   button: {
     width: 100,
-    marginHorizontal: 8,
+    marginHorizontal: 10,
   },
 });
